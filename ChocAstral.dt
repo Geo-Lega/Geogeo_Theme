@@ -1,0 +1,11 @@
+<theme>
+    <name>ChocAstral</name>
+    <skinType>1</skinType>
+    <description>Le choc des Astres !</description>
+    <previewUri>ChocAstral.png</previewUri>
+    <author>Exowdia</author>
+    <version>2.37.0</version> <!-- IMPORTANT, si manquant le thème n'appaitra pas correctement à jour pour les utilisateurs  --> 
+    <dofusVersion>2.37</dofusVersion> 
+    <creationDate>26/10/2016</creationDate> 
+    <modificationDate>27/10/2016</modificationDate> 
+</theme> 
